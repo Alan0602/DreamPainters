@@ -6,6 +6,7 @@ import image from "../assets/image.jpg"
 const HeroContainer = styled.div`
   height: 60vh;
   display: flex;
+
   align-items: center;
   justify-content: center;
   color: ${({ theme }) => theme.colors.white};
