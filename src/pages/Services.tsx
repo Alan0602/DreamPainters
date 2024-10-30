@@ -1,6 +1,6 @@
 // src/pages/Services.tsx
 import React from "react";
-import { ScrollSection } from "../components/scrollSection";
+import { ScrollSection } from "../components/ScrollSection";
 
 export const Services: React.FC = () => (
   <>

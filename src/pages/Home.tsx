@@ -1,7 +1,7 @@
 // src/pages/Home.tsx
 import React from "react";
-import { HeroSection } from "../components/herosection";
-import { ScrollSection } from "../components/scrollSection";
+import { HeroSection } from "../components/HeroSection";
+import { ScrollSection } from "../components/ScrollSection";
 
 export const Home: React.FC = () => (
   <>
